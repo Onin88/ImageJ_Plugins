@@ -27,7 +27,7 @@ Les plugins sont compatibles avec :
 ## Installation
 
 1. Téléchargez ou clonez le dépôt sur votre machine locale.
-2. Copiez les fichiers `.jar` ou `.class` dans le dossier `plugins` de votre installation ImageJ/Fiji.
+2. Copiez les fichiers `.java` dans le dossier `plugins` de votre installation ImageJ.
 3. Relancez ImageJ pour voir les plugins apparaître dans le menu.
 
 ## Contributions
